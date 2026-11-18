@@ -6,7 +6,9 @@
 
 ## 演示
 
-预期演示地址：https://pht1659692467-cmd.github.io/smart-selection-agent-demo/ （尚未完成发布，部署成功后确认）。
+**在线体验：[打开 Selection Lab](https://pht1659692467-cmd.github.io/smart-selection-agent-demo/)**
+
+已启用 GitHub Pages：main 分支、根目录。
 
 仓库地址：https://github.com/pht1659692467-cmd/smart-selection-agent-demo 。网页是供面试官直接操作的链接；本仓库是代码与产品说明链接。
 
