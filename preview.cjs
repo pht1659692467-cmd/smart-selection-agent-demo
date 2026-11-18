@@ -1,0 +1,1 @@
+const http=require('node:http'),fs=require('node:fs'),path=require('node:path');http.createServer((q,r)=>{if(q.url!=='/'){r.writeHead(404);r.end();return;}r.writeHead(200,{'Content-Type':'text/html; charset=utf-8'});fs.createReadStream(path.join(__dirname,'index.html')).pipe(r);}).listen(4192,'127.0.0.1',()=>console.log('http://127.0.0.1:4192'));

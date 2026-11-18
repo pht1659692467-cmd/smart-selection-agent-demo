@@ -1,0 +1,24 @@
+{
+  "status": "prepared-not-published",
+  "namesReplaced": 37,
+  "legacyCustomerSampleRemoved": true,
+  "originalPRDIncluded": false,
+  "credentialsIncluded": false,
+  "originalDemoUntouched": true,
+  "files": [
+    ".gitignore",
+    ".nojekyll",
+    "admin-dashboard.html",
+    "docs",
+    "index.html",
+    "package.json",
+    "preview.cjs",
+    "README.md",
+    "THIRD_PARTY_LICENSES.txt",
+    "新会话演示数据.json",
+    "测试源码"
+  ],
+  "targetAccount": "pht1659692467-cmd",
+  "targetRepository": "smart-selection-agent-demo",
+  "publicPublicationApproved": true
+}

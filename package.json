@@ -1,0 +1,10 @@
+{
+  "name": "smart-selection-agent-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "B2B selection workflow product demo with synthetic data",
+  "scripts": {
+    "test": "node 测试源码/test-cases.cjs",
+    "start": "node preview.cjs"
+  }
+}
